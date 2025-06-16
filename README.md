@@ -37,6 +37,10 @@ This project is a baseline simulation with a naive implementation, serving as a 
 - **Multithreading**
 - **SIMD exploration**
 
+## Environment
+
+Built on Windows with Visual Studio and MonoGame. 
+
 
 ## Sources
 
