@@ -45,3 +45,4 @@ Built on Windows with Visual Studio and MonoGame.
 ## Sources
 
 - *Michael Abrash's Graphics Programming Black Book*
+- *[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)*
