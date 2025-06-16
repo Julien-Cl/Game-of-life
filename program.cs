@@ -70,8 +70,8 @@ public class Game1 : Game
   private int resolutionWidth = 1000;
   private int resolutionHeight = 1000;
 
-  private int simulationWidth = 2000;
-  private int simulationHeight = 2000;
+  private int simulationWidth = 4000;
+  private int simulationHeight = 4000;
 
   private int terrainWidth;
   private int terrainHeight;

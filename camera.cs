@@ -41,7 +41,7 @@ public class Camera
   }
 
   public void ClampPosition(Vector2 min, Vector2 max)
-  {
+  { 
     Position = Vector2.Clamp(Position, min, max);
   }
 
