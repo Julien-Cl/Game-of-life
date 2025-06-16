@@ -4,8 +4,9 @@ Implementation of Conway's Game of Life in C#.
 
 This project is a baseline simulation with a naive implementation, serving as a foundation for performance-oriented experiments.
 
-![Simulation demo](Pictures/GOL.gif)
-
+<p align="center">
+  <img src="Pictures/GOL.gif" width="600">
+</p>
 
 
 ## Objectives
